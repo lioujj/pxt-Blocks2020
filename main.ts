@@ -51,6 +51,7 @@ namespace Blocks2020 {
         女朋友,
         兒子,
         女兒,
+        家人,
         學生,
         同學,
         同事,
@@ -82,6 +83,10 @@ namespace Blocks2020 {
         體格健壯,
         溫柔賢慧,
         聰明智慧,
+        疾病退散,
+        身體健康,
+        健康快樂,
+        百病消散
     }
     //% weight=100
     //% blockId=IsComing
