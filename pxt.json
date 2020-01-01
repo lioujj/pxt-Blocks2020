@@ -1,0 +1,14 @@
+{
+    "name": "Blocks2020",
+    "version": "0.0.1",
+    "description": "這是專為micro:bit提供的2010許願積木(This is the extension that makes your wishes come true in 2020. OK, Maybe)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
